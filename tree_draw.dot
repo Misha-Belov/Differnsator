@@ -1,0 +1,11 @@
+digraph {
+	"00BF1560" [label = "*", color = "red"]
+	"00BF1560" -> "00BF15E0"
+	"00BF15E0" [label = "+", color = "red"]
+	"00BF15E0" -> "00BF1620"
+	"00BF1620" [label = "3", color = "blue"]
+	"00BF15E0" -> "00BF1640"
+	"00BF1640" [label = "2", color = "blue"]
+	"00BF1560" -> "00BF1600"
+	"00BF1600" [label = "10", color = "blue"]
+}
